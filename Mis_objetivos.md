@@ -1,4 +1,4 @@
-# Ryker
+# Rafael Lozano Rubio
 Presentación
 Este repositorio contiene mi presentación personal y profesional, diseñada para mostrar de forma clara quién soy y qué hago. Aquí encontrarás:
 
