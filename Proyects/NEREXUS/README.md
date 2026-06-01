@@ -1,4 +1,4 @@
-#Proyecto Nerexus
+Proyecto Nerexus
 
 Proyecto desarrollado como Trabajo de Fin de Ciclo de Sistemas Microinformáticos y Redes (SMR).
 
