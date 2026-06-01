@@ -45,3 +45,16 @@ Entre las tecnologías empleadas en los distintos proyectos se encuentran:
 ├── proyecto-3
 ├── proyecto-4
 └── README.md
+
+
+
+🤝 Contribuciones
+
+Las sugerencias y mejoras son bienvenidas. Puedes abrir un issue o enviar un pull request.
+
+📬 Contacto
+GitHub: https://github.com/tuusuario
+LinkedIn: https://linkedin.com/in/tuperfil
+Email: tuemail@ejemplo.com
+
+⭐ Gracias por visitar mi portafolio.
